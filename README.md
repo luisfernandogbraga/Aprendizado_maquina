@@ -12,7 +12,7 @@ pip install pandas scikit-learn matplotlib
 
 Descrição do Projeto
 
-Estarei realizando o tratamento ideal dos dados para uma analise mais acertiva.
+Estarei realizando o tratamento ideal dos dados para uma analise mais assertiva.
 
 O código principal do projeto está contido no arquivo main.py, onde os dados são carregados, pré-processados, o modelo de aprendizado de máquina é criado e treinado, e os resultados são avaliados.
 
