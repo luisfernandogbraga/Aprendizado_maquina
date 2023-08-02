@@ -11,7 +11,8 @@ Além disso, você precisará das seguintes bibliotecas Python. Você pode insta
 pip install pandas scikit-learn matplotlib
 
 Descrição do Projeto
-Este projeto utiliza o conjunto de dados ( Prova de vestibular presente no Kaggle ) para realizar a tarefa de (Tratar os dados catégoricos e numéricos).
+
+Estarei realizando o tratamento ideal dos dados para uma analise mais acertiva.
 
 O código principal do projeto está contido no arquivo main.py, onde os dados são carregados, pré-processados, o modelo de aprendizado de máquina é criado e treinado, e os resultados são avaliados.
 
