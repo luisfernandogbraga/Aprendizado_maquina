@@ -26,3 +26,5 @@ Contato
 Se você tiver alguma dúvida ou precisar de mais informações sobre o projeto, sinta-se à vontade para entrar em contato comigo [duloren7790@gmail.com].
 
 Espero que este README ajude você a entender melhor o projeto e a iniciar sua jornada no mundo do Aprendizado de Máquina com Python! Não sou proficional, sou um estudante apaixonado por PYTHON. Boa sorte! 🚀
+
+## EM MANUTENÇÃO ##
